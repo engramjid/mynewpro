@@ -3,4 +3,5 @@
 ###### smalest Heading
 my new project
 
-**Hello this is bold text**
+***Hello this is bold text***
+*Italic Text*

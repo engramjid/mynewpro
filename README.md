@@ -7,3 +7,12 @@ my new project
 *Italic Text*
 
 [Click this link to access web](www.google.com)
+
+Some BAsic Commands are:
+
+```
+git status
+git checkout
+git commit
+
+```
